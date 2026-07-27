@@ -6,7 +6,7 @@ This project is an interactive Excel dashboard built to analyze PhonePe UPI tran
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Features
 
@@ -43,7 +43,7 @@ This project is an interactive Excel dashboard built to analyze PhonePe UPI tran
 
 The interactive Excel dashboard is shown below.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Author
 
